@@ -1,0 +1,33 @@
+h1 {
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+h1 { margin: 10 10 10 10;
+}
+h1 { color:red;
+}
+
+.test{
+	color:red;
+}
+
+.hello{
+	background-color:blue;
+}
+
+.foo {
+  width: 100px;
+  height: 100px;
+}
+
+.foo{
+  height: 100px;
+  width: 100px;
+}
+
+
+.test{
+	margin: 0 auto;
+    padding-left: 10px;
+}
